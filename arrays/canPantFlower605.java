@@ -1,4 +1,4 @@
-class Solution {
+class canPantFlower605 {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;
         int i = 0;

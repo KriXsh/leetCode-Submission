@@ -1,4 +1,4 @@
-class Solution {
+class maxProductSubArray153 {
     public int maxProduct(int[] nums) {
         // Edge case: If the array is empty
         if (nums == null || nums.length == 0) {

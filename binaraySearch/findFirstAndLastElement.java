@@ -1,4 +1,4 @@
-class Solution {
+class findFirstAndLastElement {
     public int[] searchRange(int[] nums, int target) {
         int first = lowerBound(nums, target);
         int last = upperBound(nums, target);

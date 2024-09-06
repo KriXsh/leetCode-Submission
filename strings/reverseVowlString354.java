@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.HashSet;
 
-class Solution {
+class reverseVowlString354 {
     public String reverseVowels(String s) {
         // Convert the string to a char array for in-place modification
         char[] chars = s.toCharArray();

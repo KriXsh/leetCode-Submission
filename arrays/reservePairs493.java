@@ -1,4 +1,4 @@
-class Solution {
+class reservePairs493 {
     public int reversePairs(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

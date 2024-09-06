@@ -1,4 +1,4 @@
-class Solution {
+class mergeAlternately1768 {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder merged = new StringBuilder(); // Use StringBuilder for efficient string concatenation
         int i = 0, j = 0;

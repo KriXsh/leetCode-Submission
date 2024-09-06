@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Solution {
+class kthFactorN1492 {
     public int kthFactor(int n, int k) {
          ArrayList<Integer> factors = new ArrayList<>();
         

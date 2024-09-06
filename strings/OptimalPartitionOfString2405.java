@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 
-class Solution {
+class OptimalPartitionOfString2405 {
     public int partitionString(String s) {
         int partitions = 1; // We need at least one partition
        HashSet<Character> seenChars = new HashSet<>();
