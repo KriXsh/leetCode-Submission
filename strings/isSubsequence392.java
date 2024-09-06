@@ -1,4 +1,4 @@
-class Solution {
+class isSubsequence392 {
     public boolean isSubsequence(String s, String t) {
         //two pointer
         int p1 = 0;
