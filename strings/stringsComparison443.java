@@ -1,4 +1,4 @@
-class Solution {
+class stringsComparison443 {
     public int compress(char[] chars) {
         int write = 0;  // Position to write in the chars array
         int i = 0;  // Position to read in the chars array

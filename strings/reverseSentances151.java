@@ -1,4 +1,4 @@
-class Solution {
+class reverseSentances151 {
     public String reverseWords(String s) {
         // Trim leading and trailing spaces
         s = s.trim();

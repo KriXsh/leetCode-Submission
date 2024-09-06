@@ -1,4 +1,4 @@
-class Solution {
+class gcdofStrings1071 {
 
     // Helper function to calculate GCD of two numbers
     private int gcd(int a, int b) {

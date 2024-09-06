@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class dfsMostStoneRemoved947 {
     public int removeStones(int[][] stones) {
         int n = stones.length;
         boolean[] visited = new boolean[n];

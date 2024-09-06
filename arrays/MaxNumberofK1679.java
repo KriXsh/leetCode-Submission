@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class MaxNumberofK1679 {
     public int maxOperations(int[] nums, int k) {
         Map<Integer, Integer> frequencyMap = new HashMap<>();
         int operations = 0;

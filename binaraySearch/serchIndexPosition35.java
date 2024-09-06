@@ -1,4 +1,4 @@
-class Solution {
+class serchIndexPosition35 {
     public int searchInsert(int[] nums, int target) {
         int low = 0;
         int high = nums.length - 1;
