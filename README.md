@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems. The goal of 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Structure](#structure)
+- [Structure](#structure)  
 - [Usage](#usage)    
 - [Contribution](#contribution)  
 - [License](#license)     
