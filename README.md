@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems. The goal of 
 - [Introduction](#introduction)
 - [Structure](#structure)
 - [Usage](#usage)    
-- [Contribution](#contribution)
+- [Contribution](#contribution)  
 - [License](#license)     
 
 ## Introduction        
