@@ -3,7 +3,7 @@
 This repository contains my solutions to various LeetCode problems. The goal of this repository is to track my progress, share solutions, and improve my problem-solving skills.
 
 ## Table of Contents
-    
+       
 - [Introduction](#introduction)
 - [Structure](#structure)  
 - [Usage](#usage)    
