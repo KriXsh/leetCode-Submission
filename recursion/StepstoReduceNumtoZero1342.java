@@ -1,4 +1,4 @@
-// goal is to return the step where we are geting zero 
+// goal is to return the step where we are geting zero // (in how many step number is going to be zero)
 //leetcode 1342 
 
 public class StepstoReduceNumtoZero1342 {
